@@ -1,2 +1,4 @@
 # NEW-PROJECT
-NEW
+This is my first repository.
+<br>
+creator - Kunal
